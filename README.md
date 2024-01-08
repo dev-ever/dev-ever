@@ -13,5 +13,7 @@
 - 🛢 SQL | MySQL | Xampp
 - 💻 PHP | JS | jQuery | Ajax
 - 🖥  Adobe Xd | Illustrator | Photoshop |
+  
+[code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ![dev-ever GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ever&show_icons=true&theme=transparent)
