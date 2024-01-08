@@ -10,8 +10,8 @@
 
 
 💻 Tech Stack
-🛢 SQL | MySQL | Xampp
-💻 PHP | JS | jQuery | Ajax
-🖥  Adobe Xd | Illustrator | Photoshop |
+- 🛢 SQL | MySQL | Xampp
+- 💻 PHP | JS | jQuery | Ajax
+- 🖥  Adobe Xd | Illustrator | Photoshop |
 
 ![dev-ever GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ever&show_icons=true&theme=transparent)
