@@ -2,20 +2,15 @@
 
 ![dev-ever GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ever&show_icons=true&theme=transparent)
 
-<!--
-**dev-ever/dev-ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+
+## you can find 🌎:
 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on **PHP Native with MySQL Database and on my skills.**
+- 🌱 I’m currently learning **more about fullstack web development.**
+- 💬 Ask me about **php, ajax,js, database and anything about web development**
+- 🔗 You can also find me on [https://https://mx.linkedin.com/]LinkedIn
+- 📫 How to reach me: Email - **emr_123@hotmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
